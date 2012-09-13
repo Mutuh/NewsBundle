@@ -7,6 +7,7 @@ This bundle requires configured sonata/admin-bundle with ORM support for adminis
 Features include:
 
 - News can be stored via Doctrine ORM
+- Administrating via SonataAdminBundle
 - Unit tested
 
 
